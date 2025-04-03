@@ -25,7 +25,7 @@ We utilize Faster R-CNN for object detection in images, employing the VOC datase
 3. The system will start downloading and extracting the dataset.
 4. When the downlaod process finishes successfully, revert the `download` value to `False`.
 5. Then you can remove the zip folder.
-6. For detailed information, please visit ![VOC Dataset](https://pytorch.org/vision/main/generated/torchvision.datasets.VOCDetection.html)
+6. For detailed information, please visit [VOC Dataset](https://pytorch.org/vision/main/generated/torchvision.datasets.VOCDetection.html)
 
 ### Executing the Program
 1. Install PyTorch (if not already installed):
