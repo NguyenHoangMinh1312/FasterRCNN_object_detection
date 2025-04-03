@@ -71,7 +71,7 @@ pip install tensorboard
 ## Sample Result
 ![Alt text](./output.jpg)
 
-### View the Tensorboard
+## View the Tensorboard
 To view the tensorboard, follow these steps:
 1. Open the terminal.
 2, Execute `tensorboard --logdir=[Your tensorboard folder path]`
